@@ -18,7 +18,8 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#ffffff",
+        "package": "com.Justin.Lifting_app"
       }
     },
     "web": {
@@ -32,5 +33,6 @@
     "experiments": {
       "typedRoutes": true
     }
+   
   }
 }

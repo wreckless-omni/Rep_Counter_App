@@ -1,3 +1,11 @@
+An app to count reps when lifting weights  
+simply tap the button for the corresponding exercise between sets to keep track of how many you've done.  
+Optionally, enter the amount of sets you want to do and be reminded that you are done when you hit the threshold.  
+
+  App Demo:  
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZJ147PybSkU/0.jpg)](https://www.youtube.com/watch?v=ZJ147PybSkU)
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
